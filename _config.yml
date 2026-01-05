@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoming Li | (李晓明)"
+  name             : "Xiaoming Li <br>   (李晓明)"
   avatar           : "images/photo.jpg"
   bio              : ""
   location         : "Singapore"
