@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoming Li (李晓明)"
+title                    : "Xiaoming Li<br>(李晓明)"
 description              : "Focusing on image generation and restoration."
 repository               : "csxmli2016/csxmli2016.github.io/"
 google_scholar_stats_use_cdn : false
